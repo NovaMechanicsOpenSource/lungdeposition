@@ -60,8 +60,9 @@ All data and supplementary materials are available via Zenodo:
 
 ## 🧾 License
 
-This application is released under the **GNU General Public License v3.0**.  
-You can view the full license here: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+This application is released under the **Apache License 2.0**.  
+You can view the full license text here:  
+🔗 [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ---
 
